@@ -1,0 +1,40 @@
+#main{
+  background-color: #2B303A;
+}
+
+.embed-responsive{
+  border: 5px solid white;
+}
+
+.search-bar {
+  margin:20px;
+  text-align: center;
+}
+
+.search-bar input{
+  width:75%;
+  height:5%;
+}
+
+.video-item img{
+  max-width: 64px;
+
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color:white;
+}
+
+.list-group-item {
+  background-color:black;
+}
+
+
+.list-group-item:hover {
+  cursor: pointer;
+  background-color: #97C8EB;
+}
